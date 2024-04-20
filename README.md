@@ -8,5 +8,6 @@ I intend to make it more complex and add some features
 
 
 #Dependances
-Java latest version
+
+1. Java latest version
 change the path to your absolute path 
