@@ -10,4 +10,4 @@ I intend to make it more complex and add some features
 #Dependances
 
 1. Java latest version
-change the path to your absolute path 
+2. change the path to your absolute path 
